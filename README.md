@@ -7,7 +7,7 @@ Born with Ohtahara Syndrome, Cortical Dysplasia, and after donating half her bra
 
 This pursuit began when I read Epilepsy is related to the same class of mathematical problems that would win a Clay Mathematics Institute million dollar prize for EXISTENCE AND SMOOTHNESS OF THE NAVIER–STOKES EQUATION. 
 
-While the Navier-Stokes Equation is in $R^2 or R^3$, Epilepsy, and life in general, would exist on the continuem in possibly $R^(\inf)$. This last sentence come from page 10 in Steven Strogatz's phonomenal book: Nonlinear Dynamics and Chaos. 
+While the Navier-Stokes Equation is in $R^2 or R^3$, Epilepsy, and life in general, would exist on the continuem in possibly $R^\inf$. This last sentence come from page 10 in Steven Strogatz's phonomenal book: Nonlinear Dynamics and Chaos. 
 
 
 Can simple modeling techniques be used to predict seizures?
