@@ -14,6 +14,6 @@ Can changes in electrical output indicate a patient's so-called "aura?"
 
 Using a variety of models, including supervised, unsupervised, Tensorflow 2 neural networks and LSTM models, I attempt to predict seizures from a patient's baseline and in the process, I show this can't be done because, in my opinion, seizure prediction falls into the mathematical theory of Chaos, so can't be predicted by definition. 
 
-However, I discovered I was asking the wrong question and find a simple and effective strategy using python, Fast Fourier Transforms, and unsupervised clustering algorithms. 
+However, I discovered I was asking the wrong question and found a simple and effective strategy using python, Fast Fourier Transforms, and unsupervised clustering algorithms. 
 
 Predicting the seizure in advance proved impossible, but could clustering provide a means to simplify Epilepsy diagnoses and could Fast Fourier Transforms and a patient's baseline can be used to alert hospitals and patient families a seizure is imminent making the Hospital Life easier for families and hospitals?
